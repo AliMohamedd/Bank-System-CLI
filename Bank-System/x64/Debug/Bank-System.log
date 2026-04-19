@@ -1,0 +1,62 @@
+﻿  Bank-System.cpp
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Util\clsString.h(37,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Util\clsString.h(42,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Util\clsString.h(185,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Util\clsString.h(302,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Util\clsString.h(327,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Util\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Util\clsString.h(515,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Core\clsUser.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Core\clsUser.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Core\clsUser.h(160,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank-System.cpp')
+      D:\ToGithub\Bank-System-OOP\Bank-System\Include\Core\clsUser.h(22,9):
+      see declaration of 'clsUser::stLoginRegister'
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Core\clsBankClient.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Core\clsBankClient.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Core\clsBankClient.h(183,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank-System.cpp')
+      D:\ToGithub\Bank-System-OOP\Bank-System\Include\Core\clsBankClient.h(35,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Screens\Transactions\clsTotalBalancesScreen.h(56,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Screens\Transactions\clsTransactionsScreen.h(17,14): warning C4091: 'static ': ignored on left of 'clsTransactionsScreen::_enTransactionsMenuOptions' when no variable is declared
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Screens\User\clsManageUSersScreen.h(17,14): warning C4091: 'static ': ignored on left of 'clsManageUsersScreen::_enManageUsersMenuOptions' when no variable is declared
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Screens\Currency\clsUpdateCurrencyRateScreen.h(51,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Screens\Currency\clsCurrencyCalculatorScreen.h(80,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Core\clsBankClient.h(367,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\ToGithub\Bank-System-OOP\Bank-System\Include\Core\clsUser.h(347,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank-System.vcxproj -> D:\ToGithub\Bank-System-OOP\x64\Debug\Bank-System.exe
